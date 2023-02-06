@@ -1,0 +1,2 @@
+# criminal_detection
+ Python deep learning can be used for facial recognition and detection. Deep learning is a subfield of machine learning that uses algorithms to learn from large datasets. It can be used to detect and recognize human faces in images and videos. The deep learning algorithm is trained on a large dataset of labeled facial images. The algorithm then learns to recognize and detect faces in a new image or video. It can be used in applications such as security, surveillance, and biometric identification.
